@@ -1,0 +1,5 @@
+
+project_id = "lykxreujpwjfinrvqmtp"
+
+[functions.ipfs-upload]
+verify_jwt = true
